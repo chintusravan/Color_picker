@@ -1,0 +1,299 @@
+#heading{
+    font-family: "Lucida Handwriting";
+    letter-spacing: 0.2rem;
+    font-size: xx-large;
+    background: -webkit-linear-gradient( 55.2deg,  rgba(40,91,212)25%, rgba(171,53,163) 49%, rgba(255,204,112) 65% );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#container{
+    height: 100vh;
+}
+#container1{
+    height: 70vh;
+    width: 28vw;
+    margin: 2rem;
+    border-radius: 25px;
+}
+#text{
+    height: 70vh;
+    width: 28vw;
+    border-radius: 25px;
+    text-align: center;
+    font-size: xx-large;
+    border: 1px thick black;
+}
+#container2{
+    height: 70vh;
+    width:70vw;
+    margin: 2rem
+}
+#main-container{
+    display: flex;
+}
+#font-color-box{
+    border: 2px solid rgb(215, 215, 229);
+    height: 32vh;
+    width:60vw;
+    margin: 0.8rem;
+    border-radius:2rem ;
+
+}
+#font-background-color-box{
+    border: 2px solid rgb(197, 197, 210);
+    height: 32vh;
+    width:60vw;
+    margin: 0.8rem;
+    border-radius:2rem ;
+}
+#font-heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#font-background-heading{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#colorred{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color: red;
+    border: 1px solid red;
+
+}
+#coloryellow{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:yellow;
+    border: 1px solid yellow;
+
+}
+#colorblue{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:blue;
+    border: 1px solid blue;
+
+}
+#colordarkblue{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:darkblue;
+    border: 1px solid darkblue;
+   
+}
+#coloraliceblue{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:aliceblue;
+    border: 1px solid aliceblue;
+   
+}
+#coloraquamarine{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:aquamarine;
+    border: 1px solid aquamarine;
+   
+}
+#colorIndianRed{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:IndianRed;
+    border: 1px solid IndianRed;
+   
+}
+#colorDarkSalmon{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:DarkSalmon;
+    border: 1px solid DarkSalmon;
+   
+}
+#colorCrimson{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Crimson;
+    border: 1px solid Crimson;
+   
+}
+#colorHotPink{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:HotPink;
+    border: 1px solid HotPink;
+   
+}
+#colorCrimson{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Crimson;
+    border: 1px solid Crimson;  
+}
+#colorMediumVioletRed{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:MediumVioletRed;
+    border: 1px solid MediumVioletRed;  
+}
+#colorDarkOrange{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:DarkOrange;
+    border: 1px solid DarkOrange;  
+}
+#colorGold{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Gold;
+    border: 1px solid Gold;  
+}
+#colorMagenta{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Magenta;
+    border: 1px solid Magenta;  
+}
+#colorDarkMagenta{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:DarkMagenta;
+    border: 1px solid DarkMagenta;  
+}
+#colorLime{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Lime;
+    border: 1px solid Lime;  
+}
+#colorOlive{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Olive;
+    border: 1px solid Olive;  
+}
+#colorDarkCyan{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:DarkCyan;
+    border: 1px solid DarkCyan;  
+}
+#colorAqua{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Aqua;
+    border: 1px solid Aqua;  
+}
+#colorWheat{
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 50%;
+    background-color:Wheat;
+    border: 1px solid Wheat;  
+}
+#colorBrown{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:Brown;
+    border: 1px solid Brown;  
+}
+#colorGhostWhite{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:GhostWhite;
+    border: 1px solid GhostWhite;
+}
+#colorSilver{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:Silver;
+    border: 1px solid Silver;  
+}
+#colororchid{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:orchid;
+    border: 1px solid orchid;  
+}
+#colorgrape{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:grape;
+    border: 1px solid grape;  
+}
+#colorperu{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:peru;
+    border: 1px solid peru;  
+}
+#colorteal{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:teal;
+    border: 1px solid teal;  
+}
+#colortomato{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:tomato;
+    border: 1px solid tomato;  
+}
+#colornavyblue{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:rgb(150, 150, 226);
+    border: 1px solid rgb(150, 150, 226);  
+}
+#colorthistle{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:thistle;
+    border: 1px solid thistle;  
+}
+#colorseagreen{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:seagreen;
+    border: 1px solid seagreen;  
+}
+#colordeeppink{
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 50%;
+    background-color:deeppink;
+    border: 1px solid deeppink;  
+}
